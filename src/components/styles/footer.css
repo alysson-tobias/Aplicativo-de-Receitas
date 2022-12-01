@@ -1,0 +1,14 @@
+.footer-container {
+  background-color: #fd841f;
+  bottom: 0;
+  position: sticky;
+  width: 100%;
+}
+
+.icons-container {
+  display: flex;
+  filter: invert();
+  gap: 1rem;
+  justify-content: space-evenly;
+  margin: 0.5em 0;
+}
